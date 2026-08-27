@@ -1,0 +1,6 @@
+Tokenizer,English_Mean_Tokens,Hindi_Aggregate_Ratio,Romanized_Hindi_Aggregate_Ratio,Telugu_Aggregate_Ratio,English_STRR_Percent,Hindi_STRR_Percent,Romanized_Hindi_STRR_Percent,Telugu_STRR_Percent,Gini_Coefficient
+GPT-3 (p50k_base),11.35,6.816,2.004,12.774,70.5,0.1,28.0,0.2,0.4441
+GPT-4 / GPT-3.5 (cl100k_base),11.18,4.62,1.855,8.305,72.4,0.3,29.3,0.1,0.391
+IndicBERT,11.5,1.132,1.616,1.046,82.4,82.8,40.0,57.7,0.1009
+XLM-RoBERTa,12.48,1.213,1.4,1.266,75.8,71.9,51.6,41.8,0.0642
+mBERT,12.48,1.708,1.599,2.09,76.5,50.1,36.5,21.0,0.132
